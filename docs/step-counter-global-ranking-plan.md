@@ -222,3 +222,8 @@ Choose one, or explicitly support multiple:
 8. Implement sync to backend (idempotent upserts) + server validation.
 9. Implement leaderboard read endpoints + UI (top N + my rank).
 10. Add privacy policy + store compliance checklist.
+
+---
+
+## 6) Delivery roadmap
+- See `docs/delivery-roadmap.md` for milestones, timelines, and release stages.
